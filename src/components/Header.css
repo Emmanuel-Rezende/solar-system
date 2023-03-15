@@ -1,0 +1,11 @@
+header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+ h1{
+    
+ }
